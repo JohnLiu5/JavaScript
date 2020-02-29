@@ -1,0 +1,32 @@
+section div button{
+    margin:20px;
+    width:60px;
+    height:30px;
+}
+
+li{
+    display: inline-block;
+    word-spacing:100px;
+}
+
+.tab button{
+    position: relative;
+    top: 30px;
+    width:80px;
+    height: 70px;
+    border-radius: 50px;
+    text-align: center;
+    font-style: normal;
+    font-size: 20px;
+}
+.tab button:hover{
+    background: cyan;
+}
+
+#start{
+    background:pink;
+}
+
+#stop{
+    background:gray;
+}
